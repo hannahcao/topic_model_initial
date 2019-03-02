@@ -1,0 +1,5 @@
+# Any line with the symbol "#" represents comments
+# The first column: id of the citing article
+# The second column: if of the cited article 
+#   (i.e., papers appearing in the reference list of the article in the first column). 
+

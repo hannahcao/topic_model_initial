@@ -1,0 +1,4 @@
+480550 
+
+#abstract
+The problem of the relevance and the usefulness of extracted association rules is of primary importance because, in the majority of  cases, real-life databases lead to several thousands association rules with  high condence and among which are many redundancies. Using the  closure of the Galois connection, we dene two new bases for association  rules which union is a generating set for all valid association rules with  support and condence. These bases are characterized using frequent  closed itemsets and their generators; they consist of the non-redundant  exact and approximate association rules having minimal antecedents and  maximal consequents, i.e. the most relevant association rules. Algorithms  for extracting these bases are presented and results of experiments carried  out on real-life databases show that the proposed bases are useful, and  that their generation is not time consuming.

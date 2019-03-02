@@ -1,0 +1,5 @@
+
+When the server ip/name is changed: 
+Locally, run the following: 
+svn switch --relocate svn+ssh://cao@128.123.63.45/home/cao/trunk/InfDetection
+svn+ssh://cao@128.123.63.104/home/cao/trunk/InfDetection

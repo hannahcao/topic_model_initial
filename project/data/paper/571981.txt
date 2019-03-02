@@ -1,0 +1,4 @@
+571981
+
+#abstract
+In this paper, we address the problem of the usefulness of the set of discovered association rules. This problem is important since real-life databases yield most of the time several thousands of rules with  high confidence. We propose new algorithms based on Galois closed sets to reduce the extraction  to small covers, or bases, for exact and approximate rules. Once frequent closed itemsets which  constitute a generating set for both frequent itemsets and association rules have been discovered,  no additional database pass is needed to derive these bases. Experiments conducted on real-life  databases show that these algorithms are efficient and valuable in practice.

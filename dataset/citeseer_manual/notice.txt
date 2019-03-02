@@ -1,0 +1,9 @@
+Steps to collect experiment corpus.
+
+1. Find paper cite or cited by papers listed in readme file.
+For each field, 10 papers are enough.  
+Please use high cited paper, more than 300 is good.
+
+2. Parse them into txt format and annotate different sections(aspects).
+
+3. I think we could extract their citation relationship by writing a script.  When collecting papers, please skip recording their citations relationship.

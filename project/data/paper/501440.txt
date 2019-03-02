@@ -1,0 +1,4 @@
+501440
+
+#abstract
+eLearning is efficient, task relevant and just-in-time learning grown from the learningrequirements of the new, dynamically changing, distributed business world. The term "Semantic  Web" encompasses efforts to build a new WWW architecture that enhances content with formal  semantics, which enables better possibilities for navigating through the cyberspace and accessing  its contents. As such, the Semantic Web represents a promising technology for realizing eLearning  requirements.

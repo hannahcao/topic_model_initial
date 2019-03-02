@@ -1,0 +1,4 @@
+487832 
+
+#abstract
+In this paper, we propose the algorithm Pascal which introduces a novel optimization of the well-known algorithm  Apriori. This optimization is based on a new strategy called  pattern counting inference that relies on the concept of key  patterns. We show that the support of frequent non-key  patterns can be inferred from frequent key patterns without  accessing the database. Experiments comparing Pascal  to the three algorithms Apriori, Close and Max-Miner,  show that Pascal is among the most ecient algorithms  for mining frequent patterns.

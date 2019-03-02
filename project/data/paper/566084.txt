@@ -1,0 +1,4 @@
+566084
+
+#abstract
+From the standpoint of supporting human-centered discovery of knowledge, the present-day model of mining association  rules suffers from the following serious shortcom-  ings: (i) lack of user exploration and control, (ii) lack of  focus, and (iii) rigid notion of relationships. In effect, this  model functions as a black-box, admitting little user interaction  in between. We propose, in this paper, an architecture  that opens up the black-box, and supports constraintbased,  human-centered exploratory mining of associations.  The foundation of this architecture is a rich set of con-  straint constructs, including domain, class, and $QL-style  aggregate constraints, which enable users to clearly specify  what associations are to be mined. We propose constrained  association queries as a means of specifying the constraints  to be satisfied by the antecedent and consequent of a mined  association.

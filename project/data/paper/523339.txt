@@ -1,0 +1,4 @@
+523339
+
+#abstract
+In this doctoral dissertation, we study three basic problems in machine learning and two new hypothesis spaces with corresponding learning algorithms. The problems we investigate are: accuracy estimation, feature subset selection, and parameter tuning. The latter two problems are related and are studied under the wrapper approach. The hypothesis spaces we investigate are: decision tables with a default majority rule (DTMs) and oblivious read-once decision graphs (OODGs).<

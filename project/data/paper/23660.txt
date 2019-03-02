@@ -1,0 +1,4 @@
+23660
+
+#abstract
+this paper is to provide such a comparison, and more importantly, to describe the general conclusions to which it has led. Relying on evidence that is divided between controlled experimental results and related formal analysis, we compare three well-known model selection algorithms. We attempt to identify their relative and absolute strengths and weaknesses, and we provide some general methods for analyzing the behavior and performance of model selection algorithms. Our hope is that these results may aid the informed practitioner in making an educated choice of model selection algorithm (perhaps based in part on some known properties of the model selection problem being confronted). The summary of the paper follows. In Section 2, we provide a formalization of the model selection problem. In this formalization, we isolate the problem of choosing the appropriate<

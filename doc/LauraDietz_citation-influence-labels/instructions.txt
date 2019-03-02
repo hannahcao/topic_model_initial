@@ -1,0 +1,38 @@
+================= Instructions =====================
+We ask you to state how much the documents you wrote were influenced by
+each of the cited publications.
+
+In the attachement you find for each of your documents a corresponding
+excel sheet. In the excelsheet you find a list of the publications you
+cited (potentially a subset). We ask you to state the influence in the
+first column of the Evaluation section, next to each citation, using the
+following legend:
+
+xx: "this citation influenced the publication in a strong sense, such as
+an approach that was build upon and refined"
+
+x: "this citation influenced the publication, such as very strong
+related work"
+
+o: "this citation did not have a strong impact on the publication, such
+as references basic research, other not especially related approaches,
+or other application domains"
+
+oo: "this citation had no impact on the publication at all"
+
+?: "I can not judge the influence"; or: "I have no opinion about this
+citation"
+
+As additional information, we included the title, authors and abstracts
+of the citing (your) publication as well as for each cited publications.
+To easily read the abstract and author information, simply click on the
+cell in MS Excel, and the full text will be displayed in the editing bar
+(Alternatively, press F2).
+
+After entering the influences, please save the sheet as tab-separated
+format and send it via email to dietz@informatik.hu-berlin.de
+
+You may note, that not all of the original cited publications appears in
+the list. This is due to incompleteness in the citeseer datasource.
+
+==================================

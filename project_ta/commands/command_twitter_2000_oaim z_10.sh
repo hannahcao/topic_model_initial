@@ -1,0 +1,1 @@
+java -Xmx10G -cp infdetection.jar cao.MainInfDetection -chainNum 2 -graphfile ./data/twitter2000/cite.txt -paperfolder ./data/twitter2000/tweet/ -aspectfile ./data/twitter2000/aspect.txt -samplerId twitter_2000_oaim z_10 -znum 10 -burnin 100 -duplicate yes -model oaim

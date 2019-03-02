@@ -1,0 +1,27 @@
+
+Mar. 12, 2012 (Monday)
+1. change the hard code of getting posterior to real value (from the parameters) 
+2. Write a new file to do the gibbs sampling. 
+   Just implement Step 1 and 2 in my writing. 
+   Reference: CitinfSampler.java
+   put this file under "nmsu" package. 
+
+----------------
+Mar. 7, 2012
+No progress because Alfred has midterm
+Meet on coming Monday
+
+----------------
+Feb. 29, 2012
+TODO: 
+(1) Get rid of the hardcoded part
+    [DONE] in r21 on Mar. 12, 2012
+(2) Complete run until it converges
+    [DONE] from r21 on Mar. 12, 2012
+(3) Test Laura's jar file
+(4) Count part (gibbs sampling)
+
+----------------
+Feb. 29, 2012
+(1) Read the files correctly
+(2) The program looks like running

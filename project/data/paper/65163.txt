@@ -1,0 +1,4 @@
+65163
+
+#abstract
+this article is divided into four parts: a brief description of the system, some example applications, some technical issues, and finally some concluding observations.  Published in Communications of the ACM, July 1993 EuroPARC tech report EPC-93-195 Page 3 / 17

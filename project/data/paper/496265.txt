@@ -1,0 +1,4 @@
+496265
+
+#abstract
+Our goal is to provide tools to support working meetings on an electronic whiteboard, called Tivoli. This paper de-  scribes how we have integrated structured "domain objects"  into the whiteboard environment. Domain objects represent  the subject matter of meetings and can be exchanged between  Tivoli and group databases. Domain objects can be  tailored to produce meeting tools that are finely tuned to  meeting practices. We describe the facility for tailoring and  managing domain objects and the user interface techniques  for blending these into the whiteboard environment. We  show examples of both specific and generic meeting tools  crafted from domain objects, and we describe a long-term  case study in which these tools support an ongoing work  process.

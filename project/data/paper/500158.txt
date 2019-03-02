@@ -1,0 +1,4 @@
+500158
+
+#abstract
+Comp) COMMUNICATIONS OF THE ACM September 1997/Vol. 40, No. 9 65  Throwing away your keyboard and mouse.  Jeremy R. Cooperstock, Sidney S. Fels, William Buxton,  and Kenneth C. Smith  Reactive  Environments  Figure 1. a) The digital whiteboard in use. The design being sketched is visible to people in the room and to  the telepresent attendee, whose image appears on the smaller monitor. b) The speaker (top-right) is illustrating a diagram in the  document camera. The document is displayed on the large video monitor and is also visible to the telepresent attendee.  [10] and Augmented Reality [1]. Proponents argue  that systems should be embedded in the environment.  The technology should be distributed (ubiquitous),  yet invisible, or transparent, since the full potential of  the computer can only be realized when the machine  itself is hidden from the 

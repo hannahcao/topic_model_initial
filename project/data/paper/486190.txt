@@ -1,0 +1,4 @@
+486190 
+
+#abstract
+In this paper, we address the problem of the efficiency of the main phase of most data mining applications: The frequent pattern extraction. This problem  is mainly related to the number of operations required for counting pattern supports  in the database, and we propose a new method, called pattern counting  inference, that allows to perform as few support counts as possible. Using this  method, the support of a pattern is determined without accessing the database  whenever possible, using the supports of some of its sub-patterns called key patterns.

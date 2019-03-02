@@ -1,0 +1,4 @@
+458306 
+
+#abstract
+. In this article, we consider market places as social places. Social places provide social presence and interaction. Virtual market places often lack  in these social factors. Community support tools, such as chat systems or  newsgroups try to fill this gap. We argue that a new architecture is needed that  brings together customers with common interests. We propose a combined  system called GAMA-Mall based on a spatial representation of the shop, which  implements this architecture.  

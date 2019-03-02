@@ -1,0 +1,8 @@
+
+1. Get evaluation data from Laura Diez's website
+   cd data
+   wget http://www.mpi-inf.mpg.de/~dietz/citation-influence-labels.zip
+   mv citation-influence-labels.zip LauraDietz_citation-influence-labels.zip
+
+
+

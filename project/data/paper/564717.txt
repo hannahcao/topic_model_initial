@@ -1,0 +1,4 @@
+564717
+
+#abstract
+In this paper, we employ a novel approach to metarule-guided, multi-dimensional association  rule mining which explores a data cube structure.

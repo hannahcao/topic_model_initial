@@ -1,0 +1,4 @@
+470717
+
+#abstract
+We address the problem of the usefulness and the relevance of the set of discovered association rules. Using the frequent  closed itemset groundwork, we propose to generate  bases for association rules, that are non-redundant generating  sets for all association rules.  1. 
